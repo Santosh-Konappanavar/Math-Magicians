@@ -143,6 +143,6 @@ I would like to thank https://www.microverse.org/ for the great lessons in makin
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT]([./LICENSE.md](https://github.com/Santosh-Konappanavar/Math-Magicians/blob/development/LICENSE)) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
