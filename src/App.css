@@ -14,7 +14,7 @@
   margin: auto;
   text-align: right;
   color: white;
-  padding: 0.5rem 0rem;
+  padding: 0.5rem 0;
 }
 
 .Number_container {
@@ -24,13 +24,15 @@
 
 .Number {
   display: grid;
-  grid-template-columns: repeat(3,150px);
+  grid-template-columns: repeat(3, 150px);
 }
+
 .Number :nth-child(13) {
   grid-column-start: 1;
   grid-column-end: 3;
- width: 100%;
+  width: 100%;
 }
+
 .operators {
   display: grid;
   align-items: center;
