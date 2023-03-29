@@ -7,6 +7,53 @@
   pointer-events: none;
 }
 
+.displayvalue {
+  background-color: #989898;
+  font-size: 33px;
+  width: 30rem;
+  margin: auto;
+  text-align: right;
+  color: white;
+  padding: 0.5rem 0rem;
+}
+
+.Number_container {
+  display: flex;
+  justify-content: center;
+}
+
+.Number {
+  display: grid;
+  grid-template-columns: repeat(3,150px);
+}
+.Number :nth-child(13) {
+  grid-column-start: 1;
+  grid-column-end: 3;
+ width: 100%;
+}
+.operators {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.numberbtns {
+  border: 1px solid lightgray;
+  font-size: 25px;
+  width: 150px;
+  height: 60px;
+  background-color: whitesmoke;
+}
+
+.operatorbtns {
+  background-color: #f28c28;
+}
+
+.operatorbtns:hover {
+  background-color: rgb(35, 131, 131);
+  cursor: pointer;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
