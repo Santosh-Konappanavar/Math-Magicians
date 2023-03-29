@@ -45,6 +45,7 @@
   width: 150px;
   height: 60px;
   background-color: whitesmoke;
+  cursor: pointer;
 }
 
 .operatorbtns {
