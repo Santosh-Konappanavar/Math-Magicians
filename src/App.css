@@ -1,13 +1,30 @@
 .App {
   text-align: center;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header > h1 {
+  margin: 0 2rem;
+}
+
+.links {
+  list-style-type: none;
+  display: flex;
+  gap: 0 2rem;
+}
+
+.links :nth-child(3) {
+  margin-right: 50px;
 }
 
 .displayvalue {
@@ -18,11 +35,23 @@
   text-align: right;
   color: white;
   padding: 0.5rem 0;
+  margin-top: 50px;
+}
+
+.calcy-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.calcy-container > h2 {
+  margin: 4rem 2rem;
 }
 
 .Number_container {
   display: flex;
   justify-content: center;
+  margin: 0 2rem;
+  padding: 0 30px;
 }
 
 .Number {
@@ -58,6 +87,12 @@
 .operatorbtns:hover {
   background-color: rgb(35, 131, 131);
   cursor: pointer;
+}
+
+.links li a:hover,
+.links li a.active {
+  color: red;
+  text-decoration: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
