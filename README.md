@@ -53,7 +53,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+### LIVE DEMO
+
+[Deployment](https://santosh-konappanavar.github.io/Math-Magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
