@@ -55,7 +55,7 @@
 
 ### LIVE DEMO
 
-[Deployment](https://santosh-konappanavar.github.io/Math-Magicians/)
+[Deployment](https://calculatorapp-xaax.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
