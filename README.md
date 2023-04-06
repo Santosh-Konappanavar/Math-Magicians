@@ -35,13 +35,13 @@
 
 <client>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">NEXT.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">HTML</a></li>
   </ul>
 </client>
 
 <client>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Webpack</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">CSS</a></li>
   </ul>
 </client>
 
