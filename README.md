@@ -110,7 +110,7 @@ npx hint . and npx stylelint "\*_/_.{css,scss}" , npx eslint . and npm test
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- deployment need to add.
+- ADD more fuctionality and components.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
